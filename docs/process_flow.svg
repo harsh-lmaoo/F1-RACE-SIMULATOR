@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180">
+<style>text{font-family:Arial;font-size:20px}rect{fill:white;stroke:black;stroke-width:2}</style>
+<rect x="20" y="55" width="130" height="60"/><text x="52" y="92">Drivers</text>
+<rect x="190" y="55" width="160" height="60"/><text x="215" y="92">Q1 / Q2 / Q3</text>
+<rect x="390" y="55" width="160" height="60"/><text x="420" y="92">Starting Grid</text>
+<rect x="590" y="55" width="130" height="60"/><text x="615" y="92">Race</text>
+<rect x="760" y="55" width="120" height="60"/><text x="775" y="92">Standings</text>
+<path d="M150 85h40M350 85h40M550 85h40M720 85h40" stroke="black" stroke-width="3"/>
+</svg>

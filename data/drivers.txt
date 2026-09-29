@@ -1,0 +1,20 @@
+Charles Leclerc|Ferrari|82.0
+Lewis Hamilton|Ferrari|82.3
+Max Verstappen|Red Bull|82.1
+Yuki Tsunoda|Red Bull|83.7
+Lando Norris|McLaren|82.2
+Oscar Piastri|McLaren|82.5
+George Russell|Mercedes|82.8
+Kimi Antonelli|Mercedes|83.1
+Fernando Alonso|Aston Martin|83.3
+Lance Stroll|Aston Martin|84.2
+Carlos Sainz|Williams|83.4
+Alex Albon|Williams|83.8
+Pierre Gasly|Alpine|84.0
+Franco Colapinto|Alpine|84.5
+Esteban Ocon|Haas|84.1
+Oliver Bearman|Haas|84.3
+Liam Lawson|Racing Bulls|84.4
+Isack Hadjar|Racing Bulls|84.6
+Nico Hulkenberg|Audi|84.2
+Gabriel Bortoleto|Audi|84.7
